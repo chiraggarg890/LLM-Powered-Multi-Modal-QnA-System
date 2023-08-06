@@ -1,1 +1,12 @@
 # question answering from Personal data bot
+
+# This code basically takes in your personal data (such as various pdfs, text documents, Microsoft Powerpoint ppts, Microsoft Word docs, your code files, image
+audio and video.
+
+# This bot will answer your queries based on your personal data provided by you.
+You can ask various questions related to your data and it will answer from the data provided by you.
+
+# This bot use "gpt 3.5 turbo" as the llm.
+#It uses the langchain framework.
+#Faiss has been used as a vector space.
+# OpenAI Whisper has been used to convert audio and video to text. Whisper supports is quite multi-lingual and supports various languages. 

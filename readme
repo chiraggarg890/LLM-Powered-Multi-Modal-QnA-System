@@ -7,6 +7,6 @@ audio and video.
 You can ask various questions related to your data and it will answer from the data provided by you.
 
 # This bot use "gpt 3.5 turbo" as the llm.
-#It uses the langchain framework.
-#Faiss has been used as a vector space.
+# It uses the langchain framework.
+# Faiss has been used as a vector space.
 # OpenAI Whisper has been used to convert audio and video to text. Whisper supports is quite multi-lingual and supports various languages. 
